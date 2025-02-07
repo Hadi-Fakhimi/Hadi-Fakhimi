@@ -49,5 +49,5 @@ Feel free to explore my projects and code! 🚀
 - LinkedIn: [my LinkedIn](https://www.linkedin.com/in/hadi-fakhimi-734180307?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hadi-Fakhimi&layout=compact)
 Feel free to explore my repositories and projects! 🚀
