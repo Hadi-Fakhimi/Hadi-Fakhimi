@@ -43,6 +43,7 @@ Feel free to explore my projects and code! 🚀
 - [www.hadifakhimi.ir](http://www.hadifakhimi.ir)
 
 ## 📱 Social Links:
+- Instagram:
 [hadifakhimi.hf](https://www.instagram.com/hadifakhimi.hf?igsh=MXVvMW1veGdoMnJsZQ==)
 - Telegram: [t.me/@HadiFakhimi79]
 - LinkedIn: [my LinkedIn](https://www.linkedin.com/in/hadi-fakhimi-734180307?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
