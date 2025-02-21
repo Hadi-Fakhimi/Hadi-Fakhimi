@@ -33,7 +33,7 @@ Feel free to explore my projects and code! 🚀
 - Clean Architecture
 - Onion Pattern
 - Microservices
-- Cars Pattern
+- Hexagonal Architecture
 
 ## 🎓 Interests:
 - **Computer Science**: I am passionate about diving deeper into algorithms, data structures, and advanced computing concepts.
